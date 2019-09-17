@@ -27,6 +27,7 @@ target 'quatar_digital_advertiesment' do
   pod 'glog', :podspec => '../node_modules/react-native/third-party-podspecs/glog.podspec'
   pod 'Folly', :podspec => '../node_modules/react-native/third-party-podspecs/Folly.podspec'
 
+
   target 'quatar_digital_advertiesmentTests' do
     inherit! :search_paths
     # Pods for testing
